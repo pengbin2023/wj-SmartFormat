@@ -1,5 +1,9 @@
 # wj-SmartFormat
 文匠：毕业论文，智能排版，兼容所有高校，自定义格式
+预览网址 https://www.aioffice.fun/format/thesis-format
+联系人微信：hoying2005
+
+功能如下：
 选择自己学校，上传后即可排版
 ![image](https://github.com/user-attachments/assets/9102c12b-708e-44e9-bb84-b0585d10a12f)
 
